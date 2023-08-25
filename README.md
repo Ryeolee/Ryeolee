@@ -13,12 +13,10 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-the-badge&logo=Node.js&logoColor=white"> 
   <img src="https://img.shields.io/badge/Express-000000?style=flat-the-badge&logo=Express&logoColor=white"> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
-
-  
+ 
   </div> 
 
 ### 🎁Database🎁
-
 
 <div>
   
