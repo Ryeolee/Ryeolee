@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-the-badge&logo=Amazon EC2&logoColor=white">  
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-the-badge&logo=Docker&logoColor=white"> 
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-the-badge&logo=GitHub Actions&logoColor=white">
-
+ <img src="https://img.shields.io/badge/nginx-009639?style=flat-the-badge&logo=nginx&logoColor=white">
     
 </div> 
 
