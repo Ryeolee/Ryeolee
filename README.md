@@ -1,7 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Hisdfsaf&fontSize=90)<br><br>
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Welcome👋&fontSize=90)<br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryeolee&show_icons=true&theme=gruvbox)
-# 🌍 Skills
+
+<p align="center">
+  Please Click 🙏 👇<br>
+  <a href="https://seung-ryeol-portfolio.vercel.app/" target="_blank">
+    🚀 <b>This is My web portfolio</b>
+  </a>
+</p>
+
+</br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ryeolee&show_icons=true">
+
+
+# <div>🌍 Skills</div>
 
 ### <div text-align:center>⚡️Language&Framework⚡️
 <div>
