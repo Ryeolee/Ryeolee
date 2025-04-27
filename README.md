@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Welcome&fontSize=90)<br><br>
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Hisdfsaf&fontSize=90)<br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryeolee&show_icons=true&theme=dark)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryeolee&show_icons=true&theme=gruvbox)
 # 🌍 Skills
 
 ### <div text-align:center>⚡️Language&Framework⚡️
