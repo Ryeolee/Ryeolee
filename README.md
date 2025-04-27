@@ -12,7 +12,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ryeolee&show_icons=true">
 
-
 # <div>🌍 Skills</div>
 
 ### <div text-align:center>⚡️Language&Framework⚡️
@@ -41,13 +40,11 @@
 ### 🌪️Infra🌪️
 
 <div>
-  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-the-badge&logo=Amazon S3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-the-badge&logo=Amazon RDS&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-the-badge&logo=Amazon EC2&logoColor=white">  
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-the-badge&logo=Docker&logoColor=white"> 
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-the-badge&logo=GitHub Actions&logoColor=white">
- <img src="https://img.shields.io/badge/nginx-009639?style=flat-the-badge&logo=nginx&logoColor=white">
-    
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"> 
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=GitHub%20Actions&logoColor=white">
+<img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white">
+
 </div> 
 
 
@@ -58,9 +55,6 @@
   
  </div>
 
-
-
-<br>
 <br>
 
 
